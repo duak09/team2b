@@ -1,6 +1,6 @@
 # Low-Cost Microclimate Monitoring System (Data Acquisition)
 
-*Team 2b: Dua Kaurejo, Ryma Chowdhury, Shereena Thames, Nick Iverson*
+*Dua Kaurejo, Ryma Chowdhury, Shereena Thames, Nick Iverson (Team 2b)*
 
 **About**
 
