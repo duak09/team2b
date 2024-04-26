@@ -14,7 +14,7 @@ This project is an initial prototype of a data acquisition subsystem for a low-c
 
 *"Poster_442project.pdf"* Poster for Showcase Day (presented April 30)
 
-*"dataSamplingv3.ino"* final version of code for prototype in C 
+*"dataSamplingv3.ino"* Final version of code for prototype in C 
 
 
 **Other**
