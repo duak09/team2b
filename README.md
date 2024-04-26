@@ -3,6 +3,7 @@
 **Team 2b: Dua Kaurejo, Ryma Chowdhury, Shereena Thames, Nick Iverson**
 
 **About**
+
 This project is an initial prototype of a data acquisition subsystem for a low-cost weather monitoring system.  
 
 **Deliverables**
