@@ -16,6 +16,7 @@ This project is an initial prototype of a data acquisition subsystem for a low-c
 
 *"dataSamplingv3.ino"* Final version of code for prototype in C 
 
+*442 Box Cad File* folder contains CAD files for the enclosure (box and lid)
 
 **Other**
 
